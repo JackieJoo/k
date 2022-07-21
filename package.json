@@ -1,0 +1,19 @@
+{
+  "name": "ta",
+  "version": "0.0.1",
+  "description": "DragonHunters",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "Yevhen Shulha",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "ts-node": "^10.8.1"
+  },
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
